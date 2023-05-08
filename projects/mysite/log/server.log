@@ -1,2 +1,5 @@
 nohup: 입력 무시
 Watching for file changes with StatReloader
+[08/May/2023 14:55:35] "GET /static/bootstrap.min.css HTTP/1.1" 200 163873
+Not Found: /favicon.ico
+[08/May/2023 14:55:36] "GET /favicon.ico HTTP/1.1" 404 2331
