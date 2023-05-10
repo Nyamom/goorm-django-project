@@ -142,3 +142,17 @@ Watching for file changes with StatReloader
 [08/May/2023 16:54:18] "GET /pybo/203/ HTTP/1.1" 200 3276
 [08/May/2023 16:55:39] "GET /pybo/203/ HTTP/1.1" 200 3350
 [08/May/2023 16:55:49] "GET /pybo/203/ HTTP/1.1" 200 3361
+Not Found: /favicon.ico
+[08/May/2023 17:20:01] "GET /favicon.ico HTTP/1.1" 404 2445
+Not Found: /favicon.ico
+[08/May/2023 17:35:14] "GET /favicon.ico HTTP/1.1" 404 2445
+[09/May/2023 10:44:47] "GET /static/style.css HTTP/1.1" 304 0
+[09/May/2023 10:44:47] "GET /static/bootstrap.min.css HTTP/1.1" 200 163873
+[09/May/2023 10:44:47] "GET /static/bootstrap.min.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[09/May/2023 10:44:47] "GET /favicon.ico HTTP/1.1" 404 2445
+[10/May/2023 08:36:43] "GET /static/bootstrap.min.css HTTP/1.1" 200 163873
+[10/May/2023 08:36:43] "GET /static/style.css HTTP/1.1" 304 0
+[10/May/2023 08:36:43] "GET /static/bootstrap.min.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[10/May/2023 08:36:43] "GET /favicon.ico HTTP/1.1" 404 2445
